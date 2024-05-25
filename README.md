@@ -24,6 +24,7 @@ npm install -g --unsafe-perm node-red
 - No mesmo terminal, rodar o servidor pelo comando:
 node-red
 - Abrir o servidor no endereço: http://localhost:1880
+- Importar o node_red.json para criar os nós necessários para o servidor
 - Inserir no nó Serial out a porta do seu Arduino
 - No Websock-Client da HiveMQ, se registrar no tópico:
 grupo4/paciente/dados_vitais
