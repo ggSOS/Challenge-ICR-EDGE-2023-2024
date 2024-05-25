@@ -17,7 +17,7 @@
 
 # Instruções:
 - Gerar uma api local através do projeto em python:
-https://github.com/OlaMeusAmigues/Challenge-Python-2023-2024.gitm
+https://github.com/OlaMeusAmigues/Challenge-Python-2023-2024.git
 - Rodar o código fonte no seu Arduino
 - Abrir o Command Prompt e inserir:
 npm install -g --unsafe-perm node-red
